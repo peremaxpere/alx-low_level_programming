@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - a c program tha prints exactly "Programming is like building a multilingual puzzle
- * Return: 0
+ * main - Entry
+ * Return: always 0
  */
 int main(void)
 {
